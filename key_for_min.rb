@@ -10,5 +10,5 @@ name_hash.each do |k, v|
     lowest_value = v 
     lowest_key = k 
     end 
-    
+    lowest_key
 end
